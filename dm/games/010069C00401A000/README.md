@@ -13,4 +13,4 @@ Base game with Update 1.22. No game-specific configuration, patches or pipeline 
 
 ## Validation status
 
-This is a provisional Mac profile: the working build has passed the playtest above, but a formal upstream regression record (`validated.tsv`) has not yet been produced.
+This is a provisional Mac profile: the working build has passed the playtest above, but a formal upstream regression record (`validated.tsv`) has not yet been produced. Game-derived shader keys and shader-pair records are intentionally omitted; the profile therefore does not include a precomputed per-game shader table.
