@@ -9,7 +9,7 @@ Base game with Update 1.22. No game-specific configuration, patches or pipeline 
 - macOS app build: successful.
 - Python 3.14.
 - Runs at 60 fps on an M1 MacBook Air with 16 GB RAM, over four hours of continuous gameplay, with occasional dips to 59 fps and no noticeable stuttering.
-- Related upstream testing/reference PR: [#3326](https://github.com/seedds/nxnative/pull/3326).
+- Related upstream reference: [RIVE profile review on PR #3326](https://github.com/seedds/nxnative/pull/3326#pullrequestreview-6058738570).
 
 ## Validation status
 
